@@ -2,9 +2,9 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Homepage</title>
+    <title></title>
   </head>
   <body>
-    <h1> FIRST WORD ON THE PAGE</h1>
+    <p> This is my first paragraph</p>
   </body>
 </html>
