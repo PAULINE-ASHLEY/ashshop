@@ -18,9 +18,9 @@
 <link rel="stylesheet" href="index.css">
   </head>
   <body>
-<?php echo "nav.php"; ?>
+<?php include 'nav.php'; ?>
 
 
-<?php echo "footer.php"; ?>
+<?php include 'footer.php'; ?>
   </body>
 </html>
