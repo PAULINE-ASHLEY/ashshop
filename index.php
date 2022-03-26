@@ -18,6 +18,9 @@
 <link rel="stylesheet" href="index.css">
   </head>
   <body>
+    <?php echo "nav.php"; ?>
 
+
+    <?php echo "footer.php"; ?>
   </body>
 </html>
