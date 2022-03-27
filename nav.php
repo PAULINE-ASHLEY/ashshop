@@ -39,7 +39,7 @@
 
     </div>
     <div class="col">
-      <ul>
+      <ul class="Navigation">
         <li>HOME</li>
         <li>CARS</li>
         <li>BOOKS</li>
