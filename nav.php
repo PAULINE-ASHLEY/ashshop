@@ -16,19 +16,6 @@
 <!-- Latest compiled JavaScript -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="index.css">
-<style>
-*{
-  margin: 0;
-  padding: 0;
-  font-family: 'lato';
-}
-.Navigation{
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-</style>
   </head>
   <body>
 
