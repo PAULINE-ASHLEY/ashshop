@@ -19,5 +19,13 @@
   </head>
   <body>
 
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h1>ASHSHOP WEBSITE</h1>
+    </div>
+  </div>
+</div>
+
   </body>
 </html>
