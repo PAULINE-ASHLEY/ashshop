@@ -22,13 +22,22 @@
 <div class="container">
   <div class="row">
     <div class="col">
-      <h3>ASHSHOP WEBSITE</h3>
+
+    </div>
+    <div class="col">
+      <h4>ASHSHOP WEBSITE</h4>
+    </div>
+    <div class="col">
+
     </div>
   </div>
 </div>
 
 <div class="container">
   <div class="row">
+    <div class="col">
+
+    </div>
     <div class="col">
       <ul>
         <li>HOME</li>
@@ -38,6 +47,9 @@
         <li>MOTORCYCLES</li>
         <li>CONTACT</li>
       </ul>
+    </div>
+    <div class="col">
+
     </div>
   </div>
 </div>
